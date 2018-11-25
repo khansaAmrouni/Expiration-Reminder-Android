@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This is a legacy Firebase example (for SDK 2.x.x). You probably want to use one of the up-to-date examples at https://firebase.google.com/docs/samples
 
 ---
@@ -23,3 +24,6 @@ email & password, and anonymous.
    [enabling providers section](https://www.firebase.com/docs/android/guide/user-auth.html#section-enable-providers)
    of the Firebase user authentication docs for more details.
 0. Populate all of the values in [`res/values/keys.xml`](/app/src/main/res/values/keys.xml).
+=======
+# Expiration-Reminder-Android
+>>>>>>> 85c67060be65685045a56d301e2d255eda0019fc
